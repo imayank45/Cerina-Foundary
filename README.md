@@ -4,7 +4,7 @@
 
 A production-ready full-stack application demonstrating advanced AI engineering patterns: multi-agent orchestration, human-in-the-loop workflows, real-time collaboration, and safety-first design.
 
----
+--- 
 
 ## 🎯 Project Overview
 
